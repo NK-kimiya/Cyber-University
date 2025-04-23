@@ -6,6 +6,6 @@
 
 ## 📄 関連ドキュメント
 
-- 👉 [システムの基礎まとめ（C言語・機械語・OS）](./system_summary.md)
+- 👉 [システムの基礎まとめ（C言語・機械語・OS）](./chapter1/system_summary.md)
 
 ---
