@@ -1,8 +1,3 @@
-#R言語で用意するツール
-#R言語
-#RSTUDIO Desktop→R言語の統合開発環境
-#source("C:/Users/kinar/Documents/データサイエンス応用第１回/comment.R")
-#R言語インストール後環境パスを通さなくても、RStudioが自動で、見つけ出してくれる。
 
 #---2-1四則演算---
 #累乗を含んだ結果
